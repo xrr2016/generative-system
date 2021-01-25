@@ -72,7 +72,7 @@ const layerConstructors = [
   {
     name: 'Stepped Hexogons',
     init: () => new SteppedHexagons(),
-    weight: 1,
+    weight: 0.3,
   },
   {
     name: 'Test Lines',
